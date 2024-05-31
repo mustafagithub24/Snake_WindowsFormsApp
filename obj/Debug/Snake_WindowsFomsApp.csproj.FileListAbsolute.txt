@@ -1,0 +1,20 @@
+C:\Users\Mustafa\Desktop\site\Snake_WindowsFomsApp\bin\Debug\Snake_WindowsFomsApp.exe.config
+C:\Users\Mustafa\Desktop\site\Snake_WindowsFomsApp\bin\Debug\Snake_WindowsFomsApp.exe
+C:\Users\Mustafa\Desktop\site\Snake_WindowsFomsApp\bin\Debug\Snake_WindowsFomsApp.pdb
+C:\Users\Mustafa\Desktop\site\Snake_WindowsFomsApp\obj\Debug\Snake_WindowsFomsApp.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Desktop\site\Snake_WindowsFomsApp\obj\Debug\Snake_WindowsFomsApp.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\site\Snake_WindowsFomsApp\obj\Debug\Snake_WindowsFomsApp.csproj.GenerateResource.cache
+C:\Users\Mustafa\Desktop\site\Snake_WindowsFomsApp\obj\Debug\Snake_WindowsFomsApp.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\site\Snake_WindowsFomsApp\obj\Debug\Snake_WindowsFomsApp.exe
+C:\Users\Mustafa\Desktop\site\Snake_WindowsFomsApp\obj\Debug\Snake_WindowsFomsApp.pdb
+C:\Users\Mustafa\Desktop\site\Snake_WindowsFomsApp\obj\Debug\Snake_WindowsFomsApp.frm_SnakeGame.resources
+D:\githup projelerim\Snake_WindowsFomsApp\bin\Debug\Snake_WindowsFomsApp.exe.config
+D:\githup projelerim\Snake_WindowsFomsApp\bin\Debug\Snake_WindowsFomsApp.exe
+D:\githup projelerim\Snake_WindowsFomsApp\bin\Debug\Snake_WindowsFomsApp.pdb
+D:\githup projelerim\Snake_WindowsFomsApp\obj\Debug\Snake_WindowsFomsApp.csproj.AssemblyReference.cache
+D:\githup projelerim\Snake_WindowsFomsApp\obj\Debug\Snake_WindowsFomsApp.frm_SnakeGame.resources
+D:\githup projelerim\Snake_WindowsFomsApp\obj\Debug\Snake_WindowsFomsApp.Properties.Resources.resources
+D:\githup projelerim\Snake_WindowsFomsApp\obj\Debug\Snake_WindowsFomsApp.csproj.GenerateResource.cache
+D:\githup projelerim\Snake_WindowsFomsApp\obj\Debug\Snake_WindowsFomsApp.csproj.CoreCompileInputs.cache
+D:\githup projelerim\Snake_WindowsFomsApp\obj\Debug\Snake_WindowsFomsApp.exe
+D:\githup projelerim\Snake_WindowsFomsApp\obj\Debug\Snake_WindowsFomsApp.pdb
